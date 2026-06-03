@@ -27,7 +27,7 @@
 
 <div align="center">
 
-| **SoTaeHo** <br/> TIL(Technical Interview Leader) | **KimYongBeom** <br/> (Follower) | **ParkEuiKyun** <br/> (Follower)  | **안성수** <br/> (Follower) |
+| **SoTaeHo** <br/> TIL(Technical Interview Leader) | **KimYongBeom** <br/> (Follower) | **ParkEuiKyun** <br/> (Follower)  | **AnSungSoo** <br/> (Follower) |
 | :---: | :---: | :---: | :---:|
 | <img src="https://avatars.githubusercontent.com/u/91146046?v=4" width="130" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/88239689?v=4" width="130" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/67894738?v=4" width="130" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/92793904?v=4" width="130" style="border-radius: 50%;"> |
 | [@SoTaeHo](https://github.com/SoTaeHo)  | [@Bumnote](https://github.com/Bumnote) | [@pug9483](https://github.com/pug9483) | [@MirrorPI](https://github.com/MirrorPI) |
