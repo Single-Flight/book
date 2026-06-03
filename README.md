@@ -44,12 +44,15 @@
 ## 주요 학습 컨텐츠
 교재 외에도 아래와 같은 공신력 있는 채널의 기술 컨텐츠를 핵심 기반으로 삼아 학습합니다.
 
+<div align="center">
+
 | 📺 우아한tech | 📺 토스 | 📝 카카오 기술 블로그 |
 | :---: | :---: | :---: |
 | [![woowatech](https://img.shields.io/badge/YouTube-우아한tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@woowatech) | [![toss](https://img.shields.io/badge/YouTube-토스_Toss-0057FF?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@toss_official) | [![kakao](https://img.shields.io/badge/Blog-카카오_Tech-FFCD00?style=for-the-badge&logo=kakao&logoColor=black)](https://tech.kakao.com/) |
 | **📝 당근마켓 기술 블로그** | **📝 네이버 D2** | **📝 토스 기술 블로그** |
 | [![daangn](https://img.shields.io/badge/Blog-당근_Tech-CC4C00?style=for-the-badge&logo=target&logoColor=white)](https://medium.com/daangn) | [![naver](https://img.shields.io/badge/Blog-NAVER_D2-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://d2.naver.com/) | [![toss_blog](https://img.shields.io/badge/Blog-토스_Tech-0057FF?style=for-the-badge&logo=toss&logoColor=white)](https://toss.tech/) |
 
+</div>
 
 ---
 <p align="center">
